@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Invoicing System (OIS)
 
 Easy and lean invoicing for small businesses, consultants and freelancers, created using [AppGini](https://bigprof.com/appgini/).
@@ -88,3 +89,7 @@ Since this application was created using AppGini, you can easily customize it by
 You can also perform more advanced customization, like adding reports, changing validation rules, adding business logic, ... etc. through hooks. Please refer to the [hooks documentation](https://bigprof.com/appgini/help/advanced-topics/hooks) for more details.
 
 _**Contributions to this project are always welcome :)**_
+=======
+# OISystem
+Online Invoice system
+>>>>>>> 40890895cc1fe9e1459b1c89e99ac9e98c085b0a
